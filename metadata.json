@@ -1,0 +1,6 @@
+{
+  "name": "ClassMaster",
+  "description": "Hệ thống số hóa hỗ trợ giáo viên chủ nhiệm lớp 5A quản lý học sinh, giao bài tập, theo dõi điểm danh, nề nếp và truyền thông lớp học hiệu quả.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
